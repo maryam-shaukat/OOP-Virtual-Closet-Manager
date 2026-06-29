@@ -64,6 +64,10 @@ MainGUI.java
 3. Run `MainGUI.java`.
 4. Explore the Virtual Closet Manager application.
 
+## 📸 Application Screenshots
+### Main Application Window
+
+![Virtual Closet Manager GUI](screenshots/ClosetManagerGUIoutput.png)
 
 
 ##  Author
